@@ -7,7 +7,8 @@
                                                                                                                                         
                                                                                                                                                                                                                                                                                                                     
 ### 😄 Profile
-I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from Universidad Andrés Bello, Chile. I am an experienced developer skilled in Python, C#, Android Development, Full Stack Development, Data Science, Flutter and Cloud/AWS. My activities are beyond my stream of education. 🌱 I am involved in a lot of hobbies and sports, like runnig, hiking and climbing.
+Software Engineer with 3+ years of experience. A strong team player, I thrive in collaborative environments, leading and working effectively within cross-functional teams (Scrum, remote teams, and client-facing roles). I combine technical proficiency with clear communication and adaptability to deliver robust solutions as a developer. My activities are beyond my education. 🌱 I am involved in a lot of hobbies and sports, like runnig, hiking and climbing.
+
 
 ### Languages
 
