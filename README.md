@@ -1,12 +1,12 @@
-                                                                                                                                        
-    ▄▄▄   ▄▄▄      ▄▄   ▄▄▄▄▄                         ▄▄▄                                          ▄▄▄                                      
-    ███   ███ ▀▀   ██    ███                          ███             ▀▀                           ███ ▀▀                                   
-    █████████ ██   ██    ███     ▀▀█▄ ███▄███▄        ███  ▀▀█▄ ██ ██ ██  ▄█▀█▄ ████▄  ▀▀█▄        ███ ██  ███▄███▄ ▄█▀█▄ ████▄ ▄█▀█▄ ▀▀▀██ 
-    ███▀▀▀███ ██   ▀▀    ███    ▄█▀██ ██ ██ ██   ▄▄▄  ███ ▄█▀██ ██▄██ ██  ██▄█▀ ██ ▀▀ ▄█▀██   ▄▄▄  ███ ██  ██ ██ ██ ██▄█▀ ██ ██ ██▄█▀   ▄█▀ 
-    ███   ███ ██▄  ██   ▄███▄   ▀█▄██ ██ ██ ██    ▀████▀  ▀█▄██  ▀█▀  ██▄ ▀█▄▄▄ ██    ▀█▄██    ▀████▀  ██▄ ██ ██ ██ ▀█▄▄▄ ██ ██ ▀█▄▄▄ ▄██▄▄ 
+# Hello Everyone                                                                                                                                        
+       ▄▄▄▄▄                         ▄▄▄                                          ▄▄▄                                      
+        ███                          ███             ▀▀                           ███ ▀▀                                   
+        ███     ▀▀█▄ ███▄███▄        ███  ▀▀█▄ ██ ██ ██  ▄█▀█▄ ████▄  ▀▀█▄        ███ ██  ███▄███▄ ▄█▀█▄ ████▄ ▄█▀█▄ ▀▀▀██ 
+        ███    ▄█▀██ ██ ██ ██   ▄▄▄  ███ ▄█▀██ ██▄██ ██  ██▄█▀ ██ ▀▀ ▄█▀██   ▄▄▄  ███ ██  ██ ██ ██ ██▄█▀ ██ ██ ██▄█▀   ▄█▀ 
+       ▄███▄   ▀█▄██ ██ ██ ██    ▀████▀  ▀█▄██  ▀█▀  ██▄ ▀█▄▄▄ ██    ▀█▄██    ▀████▀  ██▄ ██ ██ ██ ▀█▄▄▄ ██ ██ ▀█▄▄▄ ▄██▄▄ 
                                                                                                                                         
                                                                                                                                                                                                                                                                                                                     
-
+My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on
 - 👀 I’m interested in Programming, Business Intelligence and Game Development
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on projects with pasion
