@@ -10,7 +10,7 @@
 Software Engineer with 3+ years of experience. A strong team player, I thrive in collaborative environments, leading and working effectively within cross-functional teams (Scrum, remote teams, and client-facing roles). I combine technical proficiency with clear communication and adaptability to deliver robust solutions as a developer. My activities are beyond my education. 🌱 I am involved in a lot of hobbies and sports, like runnig, hiking and climbing.
 
 
-### Languages
+### 👀 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
