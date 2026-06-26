@@ -36,6 +36,9 @@ Software Engineer with 3+ years of experience. A strong team player, I thrive in
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
+### 📫 Certifications and Degrees
+
+
 - 👀 I’m interested in Business Intelligence and AI Agents
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to work on projects with pasion
