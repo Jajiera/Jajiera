@@ -40,7 +40,7 @@ Software Engineer with 3+ years of experience. A strong team player, I thrive in
 
 
 - #### Data Analytics ([IBM SkillsBuild Data Analytics Certificate](https://www.credly.com/badges/52fc3588-6020-4aaf-9642-25d6d6a2d7e8/public_url))
-- #### Artificial Intelligence ([IBM AI Developer Professional Certificate](https://coursera.org/share/feafd802dc11cfed99a7a98e0a1cc427](https://coursera.org/share/7df35aeb27ee08f444dce0b363417c83))
+- #### Artificial Intelligence ([IBM AI Developer Professional Certificate](https://coursera.org/share/feafd802dc11cfed99a7a98e0a1cc427](https://coursera.org/share/7df35aeb27ee08f444dce0b363417c83)))
 - #### IT infrastructure ([CCNA: Introduction to Networks](https://www.credly.com/badges/4fe487bc-968d-4e12-be84-ae3dcb572b2a))
 - 📫 How to reach me? Just talk to me isadorajh@gmail.com
 
