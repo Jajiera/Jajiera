@@ -53,9 +53,11 @@ Software Engineer with 3+ years of experience. A strong team player, I thrive in
 ## What I'm currently learning 📚
 
 - Diving into VS Code's code base
-- Pythons's magic
+- Flutter
 - Ai Agents
 - Cloud architecture
 
 ### 👨‍💻 How to reach me
 
+- Mail
+- Linkedin
